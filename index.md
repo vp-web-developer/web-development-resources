@@ -8,7 +8,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Notes
 
-[My Reading Notes](my-reading-notes.md)
+ - [My Reading Notes](my-reading-notes.md)
+
+### Testing
+
+- [A series of 4 courses for testing](https://learn.cypress.io/) by Cypress
+
+### Web3
+
+- [Web3 University](https://www.web3.university/)
+- [Intro to Money, Banking, and Bitcoin](https://crypto.preethikasireddy.com/) - By Preethi Kasireddy
+
+---
 
 <!--
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
