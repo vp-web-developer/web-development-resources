@@ -5,6 +5,9 @@
      - Example : [UW Health Migration](https://www.netlify.com/blog/2021/09/20/how-uw-health-serves-dynamic-data-on-their-jamstack-site-with-netlify-and-next.js/) 
      - 
 2. Javascript
+   - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+   - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+   - 
    - [RemixJS](https://remix.run/)
      - [Remix vs Next](https://remix.run/blog/remix-vs-next#tldr)
    - [NextJS](https://nextjs.org/examples)
@@ -58,3 +61,4 @@
     - [Preact](https://preactjs.com/)
     - [Qwik](https://qwik.builder.io/docs/overview) by Builder.io
 6. AWS
+7. 
