@@ -13,6 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Testing
 
 - [A series of 4 courses for testing](https://learn.cypress.io/) by Cypress
+- [Cypress Studio](https://docs.cypress.io/guides/references/cypress-studio)
 
 ### Web3
 
