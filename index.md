@@ -14,6 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - [A series of 4 courses for testing](https://learn.cypress.io/) by Cypress
 - [Cypress Studio](https://docs.cypress.io/guides/references/cypress-studio)
+- [Javascript and NodeJS Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 ### Web3
 

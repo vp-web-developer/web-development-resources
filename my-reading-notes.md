@@ -61,4 +61,9 @@
     - [Preact](https://preactjs.com/)
     - [Qwik](https://qwik.builder.io/docs/overview) by Builder.io
 6. AWS
-7. 
+7. Web Animation / Transition
+    - [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+    - [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+    - [Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
+    - [Shared Element Transition API](https://developer.chrome.com/blog/shared-element-transitions-for-spas/)
+    
